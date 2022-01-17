@@ -31,7 +31,7 @@
 ```
 Сакральный олень теперь и в телеграме. Гороскопы,<br />
 выбор из нескольких вариантов и ответы на вопросы.<br />
-### [t.me/asciisay-bot](https://github.com/fruworg/asciisay-bot)
+### [asciisay-bot](https://github.com/fruworg/asciisay-bot)
 ``` 
                                .__.__                              ___.           __    
           _____    ______ ____ |__|__| ___________  ___.__.        \_ |__   _____/  |_  
